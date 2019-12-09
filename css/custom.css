@@ -292,7 +292,7 @@ i.ci{
 /* ===Instructor=== */
 
 #instructor{
-    background:#fff url('/assets/img/brad-elvis.png') no-repeat 90% -10px;
+    background:#fff url('/img/brad-elvis.png') no-repeat 90% -10px;
 }
 
 #instructor .num{
@@ -341,7 +341,7 @@ i.ci{
 
 #signup{
     text-align: center;
-    background: url('/assets/img/hipster-stuff.jpg') center center repeat fixed;
+    background: url('/img/hipster-stuff.jpg') center center repeat fixed;
     background-size: cover;
     color:white;
     padding: 140px 0;
@@ -368,6 +368,10 @@ footer{
     color:white;
     padding:20px 0 10px;
     font-size:12px;
+}
+
+.nav{
+    margin-top: -6px;
 }
 
 footer p{

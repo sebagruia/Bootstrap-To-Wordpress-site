@@ -6,7 +6,7 @@
 
 ## Web Link
 
-[Link to the  GitHub Page](https://sebagruia.github.io/Bootstrap-to-Wordpress-site/)
+[Link to the  GitHub Page](https://sebagruia.github.io/Bootstrap-to-Wordpress-Site/)
 
 
 
