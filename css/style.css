@@ -228,11 +228,11 @@ section {
 }
 
 .feature-image-default{
-    background:url('/img/stuff-feature.jpg') no-repeat;
+    background:url('../img/stuff-feature.jpg') no-repeat;
     background-size: cover;
 }
 .feature-image-default-alt{
-    background:url('/img/hipster-stuff.jpg') no-repeat;
+    background:url('../img/hipster-stuff.jpg') no-repeat;
     background-size: cover;
 }
 
